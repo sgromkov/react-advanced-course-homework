@@ -1,1 +1,1 @@
-# react-advanced-course-homework
+# Домашняя работа на курсе [React Advanced](https://itvdn.com/ru/video/react_adv) на ITVDN
